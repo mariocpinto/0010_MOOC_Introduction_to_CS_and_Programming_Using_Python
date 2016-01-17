@@ -5,3 +5,4 @@ These notes are intended to be a high level overview / quick refresher of the co
 The accompanying book to this course is [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/index.php?q=books/introduction-computation-and-programming-using-python-0).
 
 * Lecture 1: [Introduction to Computation](Lecture_Notes/Lecture_01.md)
+* Lecture 2: [Core Elements of Programs](Lecture_Notes/Lecture_02.md)
