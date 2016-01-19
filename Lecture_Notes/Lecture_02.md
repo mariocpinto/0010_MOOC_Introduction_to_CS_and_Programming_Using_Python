@@ -41,8 +41,6 @@
  
  * Disadvantage: Code is a little slower (as we are converting to machine language on the fly).
 
-[Python Objects](https://www.youtube.com/watch?v=Ejy6ILfh_hk)
-
 
 [Variables and Naming](https://www.youtube.com/watch?v=hXyXRmJA8RU)
 * Assignment statements can be used to create a binding between a name and a value.
