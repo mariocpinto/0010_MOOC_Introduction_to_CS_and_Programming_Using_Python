@@ -43,7 +43,7 @@
   * Assignment statements can be used to create a binding between a name and a value.
 
 * [Strings](https://www.youtube.com/watch?v=oJa01jCfTCU)
-  * Of type `str`. Defined using single or double quotes e.g. `'123'` or `"abc"`.
+  * Strings are of type `str` and are defined using single or double quotes e.g. `'123'` or `"abc"`.
   * String multiplication: `2*'abc'` gives `abcabcabc`.
   * String concatination: `'abc' + '123'` gives `abc123`.
   * String length: use `len()`.
@@ -51,6 +51,14 @@
   * Slice strings using `str[start:end:<steps>]`. Python is forgiving if the end index exceeds the bounds. The optional parameter `steps` returns only every `steps` element e.g. `'Hello World'[1:8:3]` will return `eoo`.
 
 * [Simple Scripts](https://www.youtube.com/watch?v=7-mC6P2B6Ac)
-  * Getting input using `raw_input()` and printing output using `print()`.  
+  * Getting input using `raw_input()` and printing output using `print()`.
+  * Using a script file.
+  * A straight line program: one which executes each statement in order, without any variation in order.
+  * Comments in Python begin with a `#`.
+
+* [Branching Programs](https://www.youtube.com/watch?v=l4C_D90rBcY)
+  * Conditonal statements with `if`, `elif`, `else`.
+  * Branching programs allow us to make choices to do different things. However each statement gets executed only once.
+  * Such programs run in _constant time_ and run time depends only on the length of the program.
 
 [Back to course notes](../Course_Notes.md)
