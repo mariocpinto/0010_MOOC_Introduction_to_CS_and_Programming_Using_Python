@@ -37,10 +37,12 @@
     * Comparisons: `>`, `<`, `>=`, `<=`, `==`, `!=`.
   * Operators on bools: `not`, `and`, `or`.
     * Operator precedence: brackets, not, and, or.
-  * Type casting: Converting from one data type to another.    
- 
+  * Type casting: Converting from one data type to another.
+
+
 [Variables and Naming](https://www.youtube.com/watch?v=hXyXRmJA8RU)
   * Assignment statements can be used to create a binding between a name and a value.
+
 
 [Strings](https://www.youtube.com/watch?v=oJa01jCfTCU)
   * Of type `str`. Defined using single or double quotes e.g. `'123'` or `"abc"`.
