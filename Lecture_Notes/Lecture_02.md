@@ -24,23 +24,47 @@
           * Disadvantage: Code is a little slower (as we are converting to machine language on the fly).
 
 [Python Objects](https://www.youtube.com/watch?v=Ejy6ILfh_hk)
- * Type of instructions:
-   * Definitions: Statements that are evaluated and stored away.
+  * Type of instructions:
+    * Definitions: Statements that are evaluated and stored away.
     * Commands: Statements that are executed by the interpreter.
- * Data Objects:
-   * Have a _type_ that defines the operations that can be performed on the object.
+  * Data Objects:
+    * Have a _type_ that defines the operations that can be performed on the object.
     * Can be scalare.g. int., float, bool; or non-scalar.
- * Expressions - combination of objects and operators. SImple form <object> <operator> <object>.
- * Operators on ints and floats:
-   * Arithmetic: `+`, `-`, `*`, `/`, `%`, `**`.
-     * Operator precedence: brackets, power, multiplication & division, addition & subtraction. For equal precedence: Left to Right.
+  * Expressions - combination of objects and operators. Simple form <object> <operator> <object>.
+  * Operators on ints and floats:
+    * Arithmetic: `+`, `-`, `*`, `/`, `%`, `**`.
+      * Operator precedence: brackets, power, multiplication & division, addition & subtraction. For equal precedence: Left to Right.
     * Comparisons: `>`, `<`, `>=`, `<=`, `==`, `!=`.
- * Operators on bools: `not`, `and`, `or`.
-   * Operator precedence: brackets, not, and, or.
- * Type casting: Converting from one data type to another.    
+  * Operators on bools: `not`, `and`, `or`.
+    * Operator precedence: brackets, not, and, or.
+  * Type casting: Converting from one data type to another.    
  
- * Disadvantage: Code is a little slower (as we are converting to machine language on the fly).
-
-
 [Variables and Naming](https://www.youtube.com/watch?v=hXyXRmJA8RU)
-* Assignment statements can be used to create a binding between a name and a value.
+  * Assignment statements can be used to create a binding between a name and a value.
+
+
+
+[Strings](https://www.youtube.com/watch?v=oJa01jCfTCU)
+
+  * Of type `str`. Defined using single or double quotes e.g. `'123'` or `"abc"`.
+
+  * String multiplication: `2*'abc'` gives `abcabcabc`.
+
+  * String concatination: `'abc' + '123'` gives `abc123`.
+
+  * String length: use `len()`.
+
+  * Index into strings using `[]`. Note that `'abc'[3]` will return an error since the index starts from 0, but `'abc'[-1]` will give `c`. `'abc'[-4]` will also give an error.
+
+  * Slice strings using `str[start:end:<steps>]`. Python is forgiving if the end index exceeds the bounds. The optional parameter `steps` returns only every `steps` element e.g. `'Hello World'[1:8:3]` will return `eoo`.
+
+
+
+[Simple Scripts](https://www.youtube.com/watch?v=7-mC6P2B6Ac)
+
+  * Getting input using `raw_input()` and printing output using `print()`.
+
+
+
+
+[Back to course notes](../Course_Notes.md)
