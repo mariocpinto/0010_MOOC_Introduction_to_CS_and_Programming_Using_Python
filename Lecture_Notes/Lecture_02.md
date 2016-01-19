@@ -39,7 +39,6 @@
     * Operator precedence: brackets, not, and, or.
   * Type casting: Converting from one data type to another.  
 
-
 * [Variables and Naming](https://www.youtube.com/watch?v=hXyXRmJA8RU)
   * Assignment statements can be used to create a binding between a name and a value.
 
@@ -53,9 +52,5 @@
 
 * [Simple Scripts](https://www.youtube.com/watch?v=7-mC6P2B6Ac)
   * Getting input using `raw_input()` and printing output using `print()`.  
-    
-
-
-
 
 [Back to course notes](../Course_Notes.md)
