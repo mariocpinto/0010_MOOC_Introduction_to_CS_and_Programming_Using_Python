@@ -30,7 +30,7 @@
   * Data Objects:
     * Have a _type_ that defines the operations that can be performed on the object.
     * Can be scalare.g. int., float, bool; or non-scalar.
-  * Expressions - combination of objects and operators. Simple form <object> <operator> <object>.
+  * Expressions - combination of objects and operators. Simple form _object_ _operator_ _object_.
   * Operators on ints and floats:
     * Arithmetic: `+`, `-`, `*`, `/`, `%`, `**`.
       * Operator precedence: brackets, power, multiplication & division, addition & subtraction. For equal precedence: Left to Right.
