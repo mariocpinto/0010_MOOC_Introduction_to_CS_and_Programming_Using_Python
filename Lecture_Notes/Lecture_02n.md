@@ -30,6 +30,7 @@
   * Data Objects:
     * Have a _type_ that defines the operations that can be performed on the object.
     * Can be scalare.g. int., float, bool; or non-scalar.
+   * Expressions: combination of objects and operators. Simple form _object_ _operator_ _object_:
 
 * [Variables and Naming](https://www.youtube.com/watch?v=hXyXRmJA8RU)
   * Assignment statements can be used to create a binding between a name and a value.
