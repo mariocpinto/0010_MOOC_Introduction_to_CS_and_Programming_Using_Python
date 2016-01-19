@@ -1,8 +1,8 @@
 ### Lecture 2: Core Elements of Programs
 
-[Introduction](https://www.youtube.com/watch?v=9rVsdCMxeiA)
+* [Introduction](https://www.youtube.com/watch?v=9rVsdCMxeiA)
 
-[Types of Programming Languages](https://www.youtube.com/watch?v=BvooIjkNJ24)
+* [Types of Programming Languages](https://www.youtube.com/watch?v=BvooIjkNJ24)
   * Programming language: defines syntax and semantics needed to transltate computational ideas into mechanical steps.
   * Types of programming languages:
     * Low Level: 
@@ -23,7 +23,7 @@
           * Advantage: In case of failure, can know exactly where the program failed.
           * Disadvantage: Code is a little slower (as we are converting to machine language on the fly).
 
-[Python Objects](https://www.youtube.com/watch?v=Ejy6ILfh_hk)
+* [Python Objects](https://www.youtube.com/watch?v=Ejy6ILfh_hk)
   * Type of instructions:
     * Definitions: Statements that are evaluated and stored away.
     * Commands: Statements that are executed by the interpreter.
@@ -37,14 +37,13 @@
     * Comparisons: `>`, `<`, `>=`, `<=`, `==`, `!=`.
   * Operators on bools: `not`, `and`, `or`.
     * Operator precedence: brackets, not, and, or.
-  * Type casting: Converting from one data type to another.
+  * Type casting: Converting from one data type to another.  
 
 
-[Variables and Naming](https://www.youtube.com/watch?v=hXyXRmJA8RU)
+* [Variables and Naming](https://www.youtube.com/watch?v=hXyXRmJA8RU)
   * Assignment statements can be used to create a binding between a name and a value.
 
-
-[Strings](https://www.youtube.com/watch?v=oJa01jCfTCU)
+* [Strings](https://www.youtube.com/watch?v=oJa01jCfTCU)
   * Of type `str`. Defined using single or double quotes e.g. `'123'` or `"abc"`.
   * String multiplication: `2*'abc'` gives `abcabcabc`.
   * String concatination: `'abc' + '123'` gives `abc123`.
@@ -52,7 +51,11 @@
   * Index into strings using `[]`. Note that `'abc'[3]` will return an error since the index starts from 0, but `'abc'[-1]` will give `c`. `'abc'[-4]` will also give an error.
   * Slice strings using `str[start:end:<steps>]`. Python is forgiving if the end index exceeds the bounds. The optional parameter `steps` returns only every `steps` element e.g. `'Hello World'[1:8:3]` will return `eoo`.
 
-[Simple Scripts](https://www.youtube.com/watch?v=7-mC6P2B6Ac)
-  * Getting input using `raw_input()` and printing output using `print()`.
+* [Simple Scripts](https://www.youtube.com/watch?v=7-mC6P2B6Ac)
+  * Getting input using `raw_input()` and printing output using `print()`.  
+    
+
+
+
 
 [Back to course notes](../Course_Notes.md)
