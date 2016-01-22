@@ -6,3 +6,5 @@ The accompanying book to this course is [Introduction to Computation and Program
 
 * Lecture 1: [Introduction to Computation](Lecture_Notes/Lecture_01.md)
 * Lecture 2: [Core Elements of Programs](Lecture_Notes/Lecture_02.md)
+* Lecture 3: [Simple Algorithms](Lecture_Notes/Lecture_03.md)
+* Lecture 4: [Functions](Lecture_Notes/Lecture_04.md)
