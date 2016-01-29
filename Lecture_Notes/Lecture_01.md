@@ -11,7 +11,7 @@
   * Some problems are impossible for computers to solve e.g. [Turing's halting problem](https://en.wikipedia.org/wiki/Halting_problem).  
 
 
-* [Types of knowledge](https://www.youtube.com/watch?v=-8T8AXxVFZg):
+* [Types of Knowledge](https://www.youtube.com/watch?v=-8T8AXxVFZg):
   * Two types:
     * Declarative knowledge: statements of fact
     * Imperative knowledge: how-to methods / recipes.
