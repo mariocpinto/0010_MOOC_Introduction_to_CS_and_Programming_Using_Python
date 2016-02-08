@@ -10,3 +10,5 @@ The accompanying book to this course is [Introduction to Computation and Program
 * Lecture 4: [Functions](Lecture_Notes/Lecture_04.md)
 * Lecture 5: [Recursion](Lecture_Notes/Lecture_05.md)
 * Lecture 6: [Objects](Lecture_Notes/Lecture_06.md)
+* Lecture 7: [Debugging](Lecture_Notes/Lecture_07.md)
+* Lecture 8: [Assertions and Exceptions](Lecture_Notes/Lecture_08.md)
