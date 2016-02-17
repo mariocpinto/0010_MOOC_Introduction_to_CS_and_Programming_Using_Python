@@ -20,5 +20,25 @@
     * Focus on worst case scenario.
 
 * [Asymptotic Notation](https://www.youtube.com/watch?v=AU66NP1kQm0)
+ * Rules of thumb for asymptotic complexity:
+  * Describe running time in terms of number of basic steps.
+  * If running time is a sum of multiple terms - keep one with the largest growth rate.
+  * If the remaining term is a product, drop any multiplicative constants.
+ * Big O notation: Gives the upper bound on the asymptotic growth of a function.
 
-    
+* [Complexity Classes](https://www.youtube.com/watch?v=yeJJdf1sf7Y)
+ * The different classes are:
+  * O(1): Constant running time.
+  * O(log n): Logarithmic running time. e.g. bisection search, binary search.
+  * O(n): Linear running time. e.g. linear search, recursive factorial implementation.
+  * O(n log n): Log-linear running time. e.g. merge sort.
+  * O(n^C): Polynomial running time. e.g. finding the intersection of strings.
+  * O(C^n): Exponential running time. e.g. finding all the subsets in a list.
+ * The time complexity of some python operations can be found [here](https://wiki.python.org/moin/TimeComplexity).
+
+* [Comparing Complexity Classes](https://www.youtube.com/watch?v=--7OF8BOElA)
+ * Graphs of the relative growth of different complexity classes.
+
+<br>
+
+[Back to course notes](../Course_Notes.md)
