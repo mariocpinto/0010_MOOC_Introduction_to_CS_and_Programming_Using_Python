@@ -1,8 +1,12 @@
 ### Comparing Hash Functions
 
+#### Summary:
+The work below compares the performance of three hash functions on the top 10,000 English, French, German and Dutch words.
+
+#### Introduction:
 As part of problem 8 in [lecture 10](../../Lecture_Notes/Lecture_10.md) of the edx MOOC
 [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6),
-three hash function are provided:
+three hash function are defined:
 
 * First Hash Function:
 ```python
@@ -27,7 +31,7 @@ Asif Mehedi contributed [code](reference_file.py) to plot the performance
 of the above three hash functions on a [list](words.txt) of 80,000+ English words.
 
 Below, I have extended this work to compare the performance of the above three hash functions
-on the top 10,000 English, French, German and Dutch words.
+on a list of the top 10,000 English, French, German and Dutch words.
 
 #### Notes:
 
