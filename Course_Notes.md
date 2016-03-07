@@ -1,6 +1,6 @@
 ## Introduction to Computer Science and Programming Using Python: Course Notes
 
-These notes are intended to be a high level overview / quick refresher of the contents of the edX course 
+These notes are intended to be a high level overview / quick refresher of the contents of the edX course
 [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6).
 The accompanying book to this course is [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/index.php?q=books/introduction-computation-and-programming-using-python-0).
 
@@ -14,3 +14,7 @@ The accompanying book to this course is [Introduction to Computation and Program
 * Lecture  8: [Assertions and Exceptions](Lecture_Notes/Lecture_08.md)
 * Lecture  9: [Efficiency and Orders of Growth](Lecture_Notes/Lecture_09.md)
 * Lecture 10: [Memory and Search](Lecture_Notes/Lecture_10.md)
+* Lecture 11: [Classes](Lecture_Notes/Lecture_11.md)
+* Lecture 12: [Object Oriented Programming](Lecture_Notes/Lecture_12.md)
+* Lecture 13: [Trees](Lecture_Notes/Lecture_13.md)
+* Lecture 14: [Course Wrap-Up](Lecture_Notes/Lecture_14.md)
