@@ -1,6 +1,6 @@
 ### Lecture 14: Wrap Up
 
-* []()
+* [Computational Thinking](https://www.youtube.com/watch?v=KU8oz4ho6Dc)
   * Process of computational thinking:
     * Identify / invent useful abstractions.
     * Formulate solution to the problem as a computational experiment using abstractions.
@@ -15,9 +15,9 @@
     * Automation.
     * Algorithms.
 
-* []()
+* [Where Have You Been?](https://www.youtube.com/watch?v=PAWdAHT6W1o)
   * Recap of topics covered in the course.
 
-* []() Potential next steps?
+* [Where Are You Headed?](https://www.youtube.com/watch?v=EErUMgfyHXQ)
 
 [Back to course notes](../Course_Notes.md)
