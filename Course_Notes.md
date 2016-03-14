@@ -18,5 +18,5 @@ The accompanying book to this course is [Introduction to Computation and Program
 * Lecture 12: [Object Oriented Programming](Lecture_Notes/Lecture_12.md)
 * Lecture 13: [Trees](Lecture_Notes/Lecture_13.md)
 * Lecture 14: [Course Wrap-Up](Lecture_Notes/Lecture_14.md)
-* Lecture 15: [Supplimentary Tutorials](Lecture_Notes/Lecture_15.md)
-* Lecture 16: [Research Videos](Lecture_Notes/Lecture_16.md)
+* Lecture 15: [Research Videos](Lecture_Notes/Lecture_15.md)
+* Lecture 16: [Supplimentary Tutorials](Lecture_Notes/Lecture_16.md)
