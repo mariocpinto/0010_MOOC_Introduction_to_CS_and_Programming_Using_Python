@@ -20,4 +20,6 @@
 
 * [Where Are You Headed?](https://www.youtube.com/watch?v=EErUMgfyHXQ)
 
+<br>
+
 [Back to course notes](../Course_Notes.md)
