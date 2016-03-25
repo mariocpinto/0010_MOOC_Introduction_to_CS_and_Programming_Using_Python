@@ -20,3 +20,11 @@ The accompanying book to this course is [Introduction to Computation and Program
 * Lecture 14: [Course Wrap-Up](Lecture_Notes/Lecture_14.md)
 * Lecture 15: [Research Videos](Lecture_Notes/Lecture_15.md)
 * Lecture 16: [Supplimentary Tutorials](Lecture_Notes/Lecture_16.md)
+
+#### Concluding Remarks:
+This course provides a good introduction to computer science and programming.
+The course is well structured and the content quality is very good for most sections.
+Completing the course does require one to put in significant effort.
+Many in-lecture questions and interesting problem sets ensure that the concepts are thoroughly understood.
+I will definitely recommend taking this course.  
+
