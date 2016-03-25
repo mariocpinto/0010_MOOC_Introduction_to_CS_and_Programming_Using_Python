@@ -6,6 +6,7 @@ This is my course completion record for the course [Introduction to Computer Sci
 ## Final Score:
 
 ![Introduction to CS and Programming Using Python - Final Score](Images/Course_Completion.png)
+The online version of the certificate can be accesses [here](https://courses.edx.org/certificates/8f9a0ad6f7604d5ab96dc4df1d6fff87).
 
 ![Introduction to CS and Programming Using Python - Course Completion Notice](Images/Course_Completion_Notice.png)
 
